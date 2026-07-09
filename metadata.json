@@ -1,0 +1,6 @@
+{
+  "name": "Premium Dessert 3D Hero",
+  "description": "A premium hero section with a video background, 3D depth effects, and elegant typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
