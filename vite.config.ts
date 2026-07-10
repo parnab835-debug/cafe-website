@@ -4,8 +4,10 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
-    plugins: [react(), tailwindcss()],
+return {
+  base: '/cafe-website/',
+  plugins: [react(), tailwindcss()],port default defineConfig(() => {
+  
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
